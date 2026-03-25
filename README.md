@@ -1,4 +1,4 @@
-# Zwift Route Planner — Feedback & Feature Requests
+# <img src="https://images.zwiftrouteplanner.com/zwiftrouteplanner/zwiftrouteplanner-256x256.png" alt="Zwift Route Planner Logo showing circle with cyclist and route map in white on orange background" width="45" height="45"> Zwift Route Planner — Feedback & Feature Requests
 
 This is the community space for https://zwiftrouteplanner.com.
 
