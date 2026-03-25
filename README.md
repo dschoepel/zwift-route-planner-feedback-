@@ -1,2 +1,9 @@
-# <img src="https://images.zwiftrouteplanner.com/zwiftrouteplanner/zwiftrouteplanner-256x256.png" alt="Logo showing orange gear on white" width="45" height="45"> Zwift Route Planner Feedback
-Community feedback, feature requests, and bug reports for Zwift Route Planner (zwiftrouteplanner.com)
+# Zwift Route Planner — Feedback & Feature Requests
+
+This is the community space for https://zwiftrouteplanner.com.
+
+Use [Discussions](../../discussions) to suggest features, report bugs, or ask questions.
+
+Before posting, search existing discussions — a 👍 on an existing post is the best way to show support for an idea.
+
+For route data corrections (wrong distance, elevation, etc.) use the **Report a correction** link directly on any route card in the app.

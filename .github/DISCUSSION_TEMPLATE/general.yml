@@ -1,0 +1,17 @@
+title: ""
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a question, general feedback, or something that doesn't fit the other categories? You're in the right place!
+
+        Before posting, search existing discussions — you might find your answer is already there.
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      description: Questions, feedback, ideas, or anything else you'd like to share.
+      placeholder: Write your message here...
+    validations:
+      required: true
